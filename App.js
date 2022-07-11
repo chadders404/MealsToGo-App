@@ -13,7 +13,7 @@ export default function App() {
           backgroundColor: "green",
         }}
       >
-        <Text>Search</Text>
+        <Text>Testing 1</Text>
       </View>
       <View
         style={{
