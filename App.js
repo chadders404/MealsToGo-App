@@ -13,7 +13,7 @@ export default function App() {
           backgroundColor: "green",
         }}
       >
-        <Text>Testing 1</Text>
+        <Text>Testing 3</Text>
       </View>
       <View
         style={{
@@ -22,7 +22,7 @@ export default function App() {
           backgroundColor: "blue",
         }}
       >
-        <Text>List</Text>
+        <Text>Testing 2</Text>
       </View>
     </SafeAreaView>
   );
